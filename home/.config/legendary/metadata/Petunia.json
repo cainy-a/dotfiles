@@ -1,0 +1,123 @@
+{
+  "app_name": "Petunia",
+  "app_title": "Metro 2033 Redux",
+  "app_version": "0.1.0.0",
+  "asset_info": {
+    "app_name": "Petunia",
+    "asset_id": "Petunia",
+    "build_version": "0.1.0.0",
+    "catalog_item_id": "5b2c145a99284d87b0a46ca79ab75b59",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "petunia"
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-01-29T15:25:56.670Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Metro2033Redux"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "petunia"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{\"Requirements\": {\"DirectX\": {\"FeatureLevels\": \"D3D_FEATURE_LEVEL_11_0\"}}}"
+      },
+      "SupportedPlatforms": {
+        "type": "STRING",
+        "value": "Windows"
+      },
+      "com.epicgames.app.developerName": {
+        "type": "STRING",
+        "value": "4A Games"
+      },
+      "com.epicgames.app.publisherName": {
+        "type": "STRING",
+        "value": "Deep Silver"
+      }
+    },
+    "description": "Metro 2033 Redux",
+    "developer": "Koch Media",
+    "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "endOfSupport": false,
+    "entitlementName": "5b2c145a99284d87b0a46ca79ab75b59",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "5b2c145a99284d87b0a46ca79ab75b59",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1450,
+        "md5": "fe8ec6f0777e29e75c9897a4cb7c6121",
+        "size": 971534,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-05-07T19:20:27.429Z",
+        "url": "https://cdn1.epicgames.com/petunia/item/M2033-Redux_Library_Primary_Promo-2580x1450-fe8ec6f0777e29e75c9897a4cb7c6121.jpg",
+        "width": 2580
+      },
+      {
+        "height": 800,
+        "md5": "df93c960cf07a8869de25468fe361de7",
+        "size": 428910,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-05-07T19:20:45.581Z",
+        "url": "https://cdn1.epicgames.com/petunia/item/M2033_GameLogo-1405x800-df93c960cf07a8869de25468fe361de7.png",
+        "width": 1405
+      },
+      {
+        "height": 1420,
+        "md5": "b2ca7af4c9382b02b7370722b95ef6de",
+        "size": 195368,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/petunia/item/M2033_PortraitPromo-1280x1420-b2ca7af4c9382b02b7370722b95ef6de.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2019-11-19T17:03:11.718Z",
+    "namespace": "petunia",
+    "releaseInfo": [
+      {
+        "appId": "Petunia",
+        "compatibleApps": [],
+        "dateAdded": "2019-09-26T00:00:00.000Z",
+        "id": "593cfdeb879c4847989da053c204dcca",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Metro 2033 Redux",
+    "unsearchable": false
+  }
+}

@@ -1,0 +1,9 @@
+[$Version]
+update_info=spectacle_newConfig.upd:spectacle-new-config
+
+[GuiConfig]
+cropRegion=205,257,1297,697
+window-position=50,46
+
+[Save]
+lastSaveLocation=file:///tmp/sharexin.png

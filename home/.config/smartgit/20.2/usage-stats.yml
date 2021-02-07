@@ -1,0 +1,21 @@
+header: {started: 1612575215355, uid: x788513535, licenseType: foundation, build: 16136,
+  os: linux, osv: 5.10.13-arch1-2}
+stats:
+  started: {invocations: 6, invocationLast: 20210207, invocationDays: 2}
+  bundledGit.check: {invocations: 6, invocationLast: 20210207, invocationDays: 2}
+  bundledGit.check.shouldBeUsed: {invocations: 6, invocationLast: 20210207, invocationDays: 2}
+  window.log: {invocations: 6, invocationLast: 20210207, invocationDays: 2}
+  action.repositoryAdd: {invocations: 4, invocationLast: 20210207, invocationDays: 2}
+  repo.opens.wt: {invocations: 9, invocationLast: 20210207, invocationDays: 2}
+  repo.opens.wt.files.0-1000: {invocations: 8, invocationLast: 20210207, invocationDays: 2}
+  repo.opens.wt.submodules.0: {invocations: 9, invocationLast: 20210207, invocationDays: 2}
+  repo.opens.commits: {invocations: 9, invocationLast: 20210207, invocationDays: 2}
+  repo.opens.commits.0-1000: {invocations: 8, invocationLast: 20210207, invocationDays: 2}
+  action.repositoryClose: {invocations: 2, invocationLast: 20210206, invocationDays: 1}
+  action.repositoryRemove: {invocations: 1, invocationLast: 20210206, invocationDays: 1}
+  action.showChanges: {invocations: 1, invocationLast: 20210206, invocationDays: 1}
+  window.compare: {invocations: 1, invocationLast: 20210206, invocationDays: 1}
+  action.remoteAdd: {invocations: 1, invocationLast: 20210206, invocationDays: 1}
+  action.push: {invocations: 4, invocationLast: 20210206, invocationDays: 1}
+  repo.opens.wt.files.1000-10000: {invocations: 1, invocationLast: 20210207, invocationDays: 1}
+  repo.opens.commits.0: {invocations: 1, invocationLast: 20210207, invocationDays: 1}

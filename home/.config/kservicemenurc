@@ -1,0 +1,16 @@
+[Show]
+Play=true
+compressfileitemaction=true
+decrypt-view=true
+encrypt=true
+extractfileitemaction=true
+gdrivecontextmenuaction=true
+installFont=true
+kactivitymanagerd_fileitem_linking_plugin=true
+kdeconnectfileitemaction=true
+openTerminalHere=true
+plasmavaultfileitemaction=true
+runInKonsole=false
+sharefileitemaction=true
+slideshow=true
+tagsfileitemaction=true

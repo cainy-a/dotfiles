@@ -1,0 +1,105 @@
+{
+  "app_name": "3017c57256b640519e6b84b44a4ac940",
+  "app_title": "Axiom Verge Randomizer Beta",
+  "app_version": "1.51",
+  "asset_info": {
+    "app_name": "3017c57256b640519e6b84b44a4ac940",
+    "asset_id": "3017c57256b640519e6b84b44a4ac940",
+    "build_version": "1.51",
+    "catalog_item_id": "a9d1b9eef51f466a9c827c6c940f9aa7",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "puffin"
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-01-05T20:16:40.500Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "AxiomVergeBeta"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "puffin"
+      },
+      "SupportedPlatforms": {
+        "type": "STRING",
+        "value": "Windows,Win32"
+      }
+    },
+    "description": "Axiom Verge Randomizer Beta",
+    "developer": "Thomas Happ Games LLC",
+    "developerId": "o-4c6aeklnh4xk4m9h9gmr52tk5v2l8r",
+    "endOfSupport": false,
+    "entitlementName": "a9d1b9eef51f466a9c827c6c940f9aa7",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "a9d1b9eef51f466a9c827c6c940f9aa7",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "c287df1b1ade4bd33e2fae3a9312eb24",
+        "size": 570473,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-01-13T17:40:50.253Z",
+        "url": "https://cdn1.epicgames.com/puffin/item/RandomizerPortrait-1200x1600-c287df1b1ade4bd33e2fae3a9312eb24.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "03ab04771deb848328b8896521d4ecf4",
+        "size": 737555,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-01-13T17:41:05.202Z",
+        "url": "https://cdn1.epicgames.com/puffin/item/RandomzierLandscape-2560x1440-03ab04771deb848328b8896521d4ecf4.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2021-01-14T00:07:47.886Z",
+    "namespace": "puffin",
+    "releaseInfo": [
+      {
+        "appId": "3017c57256b640519e6b84b44a4ac940",
+        "compatibleApps": [],
+        "dateAdded": "2019-01-24T00:00:00.000Z",
+        "id": "ba0592cbc4d74926b48fb4cfc7825907",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "requiresSecureAccount": false,
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Axiom Verge Randomizer Beta",
+    "unsearchable": true
+  }
+}

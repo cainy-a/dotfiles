@@ -1,0 +1,116 @@
+{
+  "app_name": "Cilantro",
+  "app_title": "Layers of Fear",
+  "app_version": "1.1.1e",
+  "asset_info": {
+    "app_name": "Cilantro",
+    "asset_id": "Cilantro",
+    "build_version": "1.1.1e",
+    "catalog_item_id": "460953ba20a246fe9048729648af1b2b",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "04467b70295342a79381467353f23955"
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-05-05T20:52:24.598Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "LayersOfFear"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "04467b70295342a79381467353f23955"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Layers of Fear",
+    "developer": "Aspyr Media, Inc.",
+    "developerId": "o-dukzxsmt2q39w2xql6eb8vewd2bkc9",
+    "endOfSupport": false,
+    "entitlementName": "460953ba20a246fe9048729648af1b2b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "460953ba20a246fe9048729648af1b2b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "10b6c8c187c44653d566ec079b030e85",
+        "size": 207106,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-10-16T22:50:59.923Z",
+        "url": "https://cdn1.epicgames.com/04467b70295342a79381467353f23955/item/LayersOfFear_PromoPrimary-2560x1440-10b6c8c187c44653d566ec079b030e85.jpg",
+        "width": 2560
+      },
+      {
+        "height": 742,
+        "md5": "886dac16239fb58014ba143dc0dd6e0c",
+        "size": 91767,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-10-16T22:51:11.673Z",
+        "url": "https://cdn1.epicgames.com/04467b70295342a79381467353f23955/item/LayersOfFear_LOGO-983x742-886dac16239fb58014ba143dc0dd6e0c.png",
+        "width": 983
+      },
+      {
+        "height": 1440,
+        "md5": "61daf14a7bf8e9c71650cadff259d386",
+        "size": 143618,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/04467b70295342a79381467353f23955/item/LayersOfFear_PortaitPromo-1280x1440-61daf14a7bf8e9c71650cadff259d386.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2020-05-15T00:02:03.592Z",
+    "namespace": "04467b70295342a79381467353f23955",
+    "releaseInfo": [
+      {
+        "appId": "Cilantro",
+        "dateAdded": "2019-10-16T00:00:00.000Z",
+        "id": "f96f3713650c48879b56e079d21d9000",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Layers of Fear",
+    "unsearchable": false
+  }
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>wine-wine</Name>
+    <Directory>wine-wine.directory</Directory>
+  <Menu>
+    <Name>wine-Programs</Name>
+    <Directory>wine-Programs.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-iZotope</Name>
+    <Directory>wine-Programs-iZotope.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-iZotope-RX 8 Audio Editor</Name>
+    <Directory>wine-Programs-iZotope-RX 8 Audio Editor.directory</Directory>
+    <Include>
+      <Filename>wine-Programs-iZotope-RX 8 Audio Editor-RX 8 Audio Editor.desktop</Filename>
+    </Include>
+  </Menu>
+  </Menu>
+  </Menu>
+  </Menu>
+</Menu>

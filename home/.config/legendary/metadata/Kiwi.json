@@ -1,0 +1,135 @@
+{
+  "app_name": "Kiwi",
+  "app_title": "Tetris\u00ae Effect",
+  "app_version": "1.0.6",
+  "asset_info": {
+    "app_name": "Kiwi",
+    "asset_id": "Kiwi",
+    "build_version": "1.0.6",
+    "catalog_item_id": "1a98deb7ede648448f67cd00d1bf4584",
+    "label_name": "Live-Windows",
+    "metadata": {
+      "installationPoolId": "4c600879cf8a483ba1d66745d5cb2449"
+    },
+    "namespace": "76339caf9e8e4d24b62761c736e82b42"
+  },
+  "base_urls": [
+    "https://epicgames-download1.akamaized.net/Builds/Org/o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn/7ae5e7fb1f52463cb251003108495cfd/default",
+    "https://download.epicgames.com/Builds/Org/o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn/7ae5e7fb1f52463cb251003108495cfd/default",
+    "https://download2.epicgames.com/Builds/Org/o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn/7ae5e7fb1f52463cb251003108495cfd/default",
+    "https://download3.epicgames.com/Builds/Org/o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn/7ae5e7fb1f52463cb251003108495cfd/default",
+    "https://download4.epicgames.com/Builds/Org/o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn/7ae5e7fb1f52463cb251003108495cfd/default",
+    "https://fastly-download.epicgames.com/Builds/Org/o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn/7ae5e7fb1f52463cb251003108495cfd/default"
+  ],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-06-19T18:45:16.830Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TetrisEffect"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "76339caf9e8e4d24b62761c736e82b42"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "defaultLaunchOption_Args": {
+        "type": "STRING",
+        "value": "-nohmd"
+      },
+      "extraLaunchOption_001_Args": {
+        "type": "STRING",
+        "value": "-vr -hmd=SteamVR"
+      },
+      "extraLaunchOption_001_Name": {
+        "type": "STRING",
+        "value": "Launch in SteamVR"
+      },
+      "extraLaunchOption_002_Args": {
+        "type": "STRING",
+        "value": "-vr -hmd=OculusHMD"
+      },
+      "extraLaunchOption_002_Name": {
+        "type": "STRING",
+        "value": "Launch in Oculus VR"
+      }
+    },
+    "description": "Tetris\u00ae Effect",
+    "developer": "Enhance, Inc.",
+    "developerId": "o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn",
+    "endOfSupport": false,
+    "entitlementName": "1a98deb7ede648448f67cd00d1bf4584",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "1a98deb7ede648448f67cd00d1bf4584",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1041,
+        "md5": "39433010ede56695f20157632cbc9baf",
+        "size": 362071,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-07-12T18:39:33.332Z",
+        "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/item/04_EGS_enhance_tetriseffect_L1_librarypromo_2560x1440px-1850x1041-39433010ede56695f20157632cbc9baf.jpg",
+        "width": 1850
+      },
+      {
+        "height": 530,
+        "md5": "6635ef29a551edd516217bb27edaa986",
+        "size": 422887,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-11-20T21:07:07.729Z",
+        "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/item/TetrisEffect_Portrait_4-3-400x530-6635ef29a551edd516217bb27edaa986-400x530-6635ef29a551edd516217bb27edaa986 (1)-400x530-6635ef29a551edd516217bb27edaa986.png",
+        "width": 400
+      }
+    ],
+    "lastModifiedDate": "2019-11-20T21:07:12.537Z",
+    "namespace": "76339caf9e8e4d24b62761c736e82b42",
+    "releaseInfo": [
+      {
+        "appId": "Kiwi",
+        "dateAdded": "2019-06-20T00:00:00.000Z",
+        "id": "79c06f6d32474a3cbeaded52f114894b",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Tetris\u00ae Effect",
+    "unsearchable": false
+  }
+}

@@ -1,0 +1,33 @@
+[056A:00D4]
+CurrentProfileEntry=-1
+ProfileRotationList=
+
+[056A:00D4][Default][eraser]
+Area=6991 2915 8819 6165
+Button1=1
+Button2=2
+Button3=3
+Mode=absolute
+PressureCurve=0 0 100 100
+RawSample=4
+Rotate=ccw
+ScreenMap=desktop:6991 2915 8819 6165
+ScreenSpace=desktop
+Suppress=2
+TabletPcButton=off
+Threshold=27
+
+[056A:00D4][Default][stylus]
+Area=6991 2915 8819 6165
+Button1=1
+Button2=2
+Button3=3
+Mode=absolute
+PressureCurve=0 0 100 100
+RawSample=4
+Rotate=ccw
+ScreenMap=desktop:6991 2915 8819 6165
+ScreenSpace=desktop
+Suppress=2
+TabletPcButton=off
+Threshold=27

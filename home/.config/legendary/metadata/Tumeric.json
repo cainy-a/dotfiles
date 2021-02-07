@@ -1,0 +1,117 @@
+{
+  "app_name": "Tumeric",
+  "app_title": ">observer_",
+  "app_version": "1.0.0d",
+  "asset_info": {
+    "app_name": "Tumeric",
+    "asset_id": "Tumeric",
+    "build_version": "1.0.0d",
+    "catalog_item_id": "4d27dfe4f28147d2aef0ee8a9b2ae7dc",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "85398892cc4544088ee87c673f95bb6f"
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-05-05T20:51:58.398Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Observer"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "85398892cc4544088ee87c673f95bb6f"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": ">observer_",
+    "developer": "Bloober Team",
+    "developerId": "o-8nzuqrvr3dvkn9l7dydvhkekqd3xa9",
+    "endOfSupport": false,
+    "entitlementName": "4d27dfe4f28147d2aef0ee8a9b2ae7dc",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "4d27dfe4f28147d2aef0ee8a9b2ae7dc",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "3681f1bd3abab32f8a66217b91fbadbe",
+        "size": 234744,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-10-08T20:51:40.579Z",
+        "url": "https://cdn1.epicgames.com/85398892cc4544088ee87c673f95bb6f/item/Observer_LibraryPrimary-2560x1440-3681f1bd3abab32f8a66217b91fbadbe.jpg",
+        "width": 2560
+      },
+      {
+        "height": 742,
+        "md5": "4489f7cd745030a094e362369d5036ce",
+        "size": 3694,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-10-08T20:51:51.973Z",
+        "url": "https://cdn1.epicgames.com/85398892cc4544088ee87c673f95bb6f/item/Observer_Logo-983x742-4489f7cd745030a094e362369d5036ce.png",
+        "width": 983
+      },
+      {
+        "height": 1440,
+        "md5": "66f9fd6c33526779b58565414d6ed6c9",
+        "size": 155694,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/85398892cc4544088ee87c673f95bb6f/item/Observer_StorePortraitPromo-1280x1440-66f9fd6c33526779b58565414d6ed6c9.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2021-01-05T22:53:44.210Z",
+    "namespace": "85398892cc4544088ee87c673f95bb6f",
+    "releaseInfo": [
+      {
+        "appId": "Tumeric",
+        "dateAdded": "2019-10-08T00:00:00.000Z",
+        "id": "2181ccd7aa9540f78ae202ee338fe83f",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": ">observer_",
+    "unsearchable": false
+  }
+}

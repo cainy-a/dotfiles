@@ -1,0 +1,11 @@
+[MainWindow]
+HDMI-A-0 XPosition=1280
+HDMI-A-0 YPosition=75
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGcAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+splitterSizes=426,213
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/iZotope.RX.8.Audio.Editor.Advanced.v8.0.0-R2R.7z
+Name1[$e]=iZotope.RX.8.Audio.Editor.Advanced.v8.0.0-R2R.7z

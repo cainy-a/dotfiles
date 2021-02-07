@@ -1,0 +1,128 @@
+{
+  "app_name": "Salt",
+  "app_title": "Celeste",
+  "app_version": "1.3.1.2.win",
+  "asset_info": {
+    "app_name": "Salt",
+    "asset_id": "Salt",
+    "build_version": "1.3.1.2.win",
+    "catalog_item_id": "38c07a09dc174b69b756aa51890c3dd4",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "b671fbc7be424e888c9346a9a6d3d9db"
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-08-05T14:11:02.459Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{InstallDir}/Saves/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/Celeste/Saves/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Celeste"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "b671fbc7be424e888c9346a9a6d3d9db"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Celeste",
+    "developer": "Matt Makes Games",
+    "developerId": "o-82l4kr2zqqhkqqa6mkut4pjx9lma3h",
+    "endOfSupport": false,
+    "entitlementName": "38c07a09dc174b69b756aa51890c3dd4",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "38c07a09dc174b69b756aa51890c3dd4",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1140,
+        "md5": "bff534328df4abe66ea9c4b910df016a",
+        "size": 742003,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-08-14T18:00:29.305Z",
+        "url": "https://cdn1.epicgames.com/b671fbc7be424e888c9346a9a6d3d9db/item/S1-2546x1140-bff534328df4abe66ea9c4b910df016a.jpg",
+        "width": 2546
+      },
+      {
+        "height": 1589,
+        "md5": "d649a2f29c7137d610c44e9ed5c4a766",
+        "size": 183718,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-08-14T18:00:43.702Z",
+        "url": "https://cdn1.epicgames.com/b671fbc7be424e888c9346a9a6d3d9db/item/IC1-1920x1589-d649a2f29c7137d610c44e9ed5c4a766.png",
+        "width": 1920
+      },
+      {
+        "height": 810,
+        "md5": "daf63dc13a653496e81fa6868a06f1e9",
+        "size": 472847,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-11-21T16:07:21.058Z",
+        "url": "https://cdn1.epicgames.com/b671fbc7be424e888c9346a9a6d3d9db/item/celeste_BG-1438x810-daf63dc13a653496e81fa6868a06f1e9-1438x810-daf63dc13a653496e81fa6868a06f1e9.png",
+        "width": 1438
+      }
+    ],
+    "lastModifiedDate": "2019-11-21T16:07:26.482Z",
+    "namespace": "b671fbc7be424e888c9346a9a6d3d9db",
+    "releaseInfo": [
+      {
+        "appId": "Salt",
+        "dateAdded": "2019-08-05T00:00:00.000Z",
+        "id": "5f840bb69b9e4a689551a729a97585c4",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Celeste",
+    "unsearchable": false
+  }
+}

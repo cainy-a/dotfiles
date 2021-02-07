@@ -1,0 +1,5 @@
+[EmbedSettings]
+embed-audio/mpeg=false
+embed-text/plain=false
+embed-video/mp4=false
+embed-video/x-matroska=false

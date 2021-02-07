@@ -1,0 +1,23 @@
+[General]
+Recent Urls[$e]=file:$HOME/2021-02-07 22-11-25.mkv
+TimeFormat=1
+Volume=1
+
+[MainWindow]
+HDMI-A-0 Height 1080=720
+HDMI-A-0 Width 1920=1280
+HDMI-A-0 XPosition=251
+HDMI-A-0 YPosition=176
+State=AAAA/wAAAAD9AAAAAAAABQAAAAJxAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[file:///home/cain/2021-02-07 22-11-25.mkv]
+Brightness=0
+Contrast=0
+Date=2021,2,7
+Hue=0
+IsVideo=true
+Position=3977
+Preferred Size=1280,625
+Saturation=0
+Subtitle=0

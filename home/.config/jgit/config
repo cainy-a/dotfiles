@@ -1,0 +1,3 @@
+[filesystem "Amazon.com Inc.|11.0.8|/dev/sda5"]
+	timestampResolution = 94000 nanoseconds
+	minRacyThreshold = 5652 microseconds

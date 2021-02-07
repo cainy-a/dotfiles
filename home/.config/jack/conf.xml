@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!--
+JACK settings, as persisted by D-Bus object.
+You probably don't want to edit this because
+it will be overwritten next time jackdbus saves.
+-->
+<!-- Sun Feb  7 21:21:32 2021 -->
+<jack>
+ <engine>
+  <option name="driver">alsa</option>
+ </engine>
+ <drivers>
+  <driver name="netone">
+  </driver>
+  <driver name="dummy">
+  </driver>
+  <driver name="alsa">
+   <option name="device">hw:Generic_1,0</option>
+  </driver>
+  <driver name="net">
+  </driver>
+  <driver name="alsarawmidi">
+  </driver>
+  <driver name="proxy">
+  </driver>
+  <driver name="loopback">
+  </driver>
+ </drivers>
+ <internals>
+  <internal name="audioadapter">
+  </internal>
+  <internal name="netmanager">
+  </internal>
+  <internal name="netadapter">
+  </internal>
+  <internal name="profiler">
+  </internal>
+ </internals>
+</jack>

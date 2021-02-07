@@ -1,0 +1,10 @@
+{
+	"openBrowser": true,
+	"minToTray": false,
+	"x": 0,
+	"y": 0,
+	"width": 400,
+	"height": 400,
+	"maximized": false,
+	"hideMenu": false
+}

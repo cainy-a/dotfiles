@@ -1,0 +1,337 @@
+{
+  "app_name": "Peony",
+  "app_title": "The Escapists",
+  "app_version": "dev_n43",
+  "asset_info": {
+    "app_name": "Peony",
+    "asset_id": "Peony",
+    "build_version": "dev_n43",
+    "catalog_item_id": "6e7e8e5c9bcc4352bec6bb2fa5134ad2",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "61bc780f42f84fe29e6dfee957ab82de"
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-06-14T04:02:56.411Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheEscapists"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "61bc780f42f84fe29e6dfee957ab82de"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Escapists",
+    "developer": "Team17 Digital Ltd",
+    "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          },
+          {
+            "path": "dlc"
+          }
+        ],
+        "creationDate": "2019-06-21T13:47:57.491Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Fhurst Peak Correctional Facility DLC 1",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "7bd6003c3cd6485f82451a1e53efa278",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7bd6003c3cd6485f82451a1e53efa278",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-08-07T22:47:34.696Z",
+        "mainGameItem": {
+          "id": "6e7e8e5c9bcc4352bec6bb2fa5134ad2",
+          "namespace": "61bc780f42f84fe29e6dfee957ab82de",
+          "unsearchable": false
+        },
+        "namespace": "61bc780f42f84fe29e6dfee957ab82de",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Fhurst Peak Correctional Facility DLC",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          },
+          {
+            "path": "dlc"
+          }
+        ],
+        "creationDate": "2019-06-21T13:48:14.057Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Alcatraz DLC\t2",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "7161fff3219f4623953b776526026a9c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7161fff3219f4623953b776526026a9c",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-08-07T22:47:34.696Z",
+        "mainGameItem": {
+          "id": "6e7e8e5c9bcc4352bec6bb2fa5134ad2",
+          "namespace": "61bc780f42f84fe29e6dfee957ab82de",
+          "unsearchable": false
+        },
+        "namespace": "61bc780f42f84fe29e6dfee957ab82de",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Alcatraz DLC",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          },
+          {
+            "path": "dlc"
+          }
+        ],
+        "creationDate": "2019-06-21T13:48:37.422Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Santa's Sweatshop DLC\t 5",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "d7ae5d5b89374f98a3a38c5ef19afec1",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d7ae5d5b89374f98a3a38c5ef19afec1",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-08-07T22:47:34.696Z",
+        "mainGameItem": {
+          "id": "6e7e8e5c9bcc4352bec6bb2fa5134ad2",
+          "namespace": "61bc780f42f84fe29e6dfee957ab82de",
+          "unsearchable": false
+        },
+        "namespace": "61bc780f42f84fe29e6dfee957ab82de",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Santa's Sweatshop DLC",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          },
+          {
+            "path": "dlc"
+          }
+        ],
+        "creationDate": "2019-06-21T13:48:24.199Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Duct Tapes are Forever DLC\t 4",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "f2a1bfd2c3494878b9d2510b93940766",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f2a1bfd2c3494878b9d2510b93940766",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-08-07T22:47:34.696Z",
+        "mainGameItem": {
+          "id": "6e7e8e5c9bcc4352bec6bb2fa5134ad2",
+          "namespace": "61bc780f42f84fe29e6dfee957ab82de",
+          "unsearchable": false
+        },
+        "namespace": "61bc780f42f84fe29e6dfee957ab82de",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Duct Tapes are Forever DLC",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          },
+          {
+            "path": "dlc"
+          }
+        ],
+        "creationDate": "2019-06-21T13:48:18.014Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Escape Team DLC\t3",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "bba2a856b6374f6b957af37439fbdb9a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "bba2a856b6374f6b957af37439fbdb9a",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-08-07T22:47:34.696Z",
+        "mainGameItem": {
+          "id": "6e7e8e5c9bcc4352bec6bb2fa5134ad2",
+          "namespace": "61bc780f42f84fe29e6dfee957ab82de",
+          "unsearchable": false
+        },
+        "namespace": "61bc780f42f84fe29e6dfee957ab82de",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Escape Team DLC",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "6e7e8e5c9bcc4352bec6bb2fa5134ad2",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "6e7e8e5c9bcc4352bec6bb2fa5134ad2",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "03fae261503534b25a35bf41d4949e02",
+        "size": 129949,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-12-02T16:35:48.964Z",
+        "url": "https://cdn1.epicgames.com/61bc780f42f84fe29e6dfee957ab82de/item/TheEscapists_PDP Promo-2560x1440-03fae261503534b25a35bf41d4949e02.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1440,
+        "md5": "836dd67c156ad52a535df83ba236b7f6",
+        "size": 212801,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-12-02T16:35:58.510Z",
+        "url": "https://cdn1.epicgames.com/61bc780f42f84fe29e6dfee957ab82de/item/TheEscapistsPackshot1280 x 1440-1280x1440-836dd67c156ad52a535df83ba236b7f6.jpg",
+        "width": 1280
+      },
+      {
+        "height": 8504,
+        "md5": "702f748f5e9ca480b693d042c911e8b2",
+        "size": 225724,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-12-02T16:36:10.786Z",
+        "url": "https://cdn1.epicgames.com/61bc780f42f84fe29e6dfee957ab82de/item/TheEscapists_Logo-8504x8504-702f748f5e9ca480b693d042c911e8b2.png",
+        "width": 8504
+      }
+    ],
+    "lastModifiedDate": "2020-03-04T16:01:53.105Z",
+    "namespace": "61bc780f42f84fe29e6dfee957ab82de",
+    "releaseInfo": [
+      {
+        "appId": "Peony",
+        "dateAdded": "2019-12-02T16:42:14.294Z",
+        "id": "3662aa424c864078bf1e0517b88f4c91",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "The Escapists",
+    "unsearchable": false
+  }
+}

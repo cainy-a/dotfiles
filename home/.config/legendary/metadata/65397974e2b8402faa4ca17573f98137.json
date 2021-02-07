@@ -1,0 +1,94 @@
+{
+  "app_name": "65397974e2b8402faa4ca17573f98137",
+  "app_title": "Dauntless Experimental",
+  "app_version": "dauntless_mainline_Shipping_2021-01-14_19-26-59_253814",
+  "asset_info": {
+    "app_name": "65397974e2b8402faa4ca17573f98137",
+    "asset_id": "65397974e2b8402faa4ca17573f98137",
+    "build_version": "dauntless_mainline_Shipping_2021-01-14_19-26-59_253814",
+    "catalog_item_id": "8adffb38b30549408621c241474bd259",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "jackal"
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-07-23T12:55:06.168Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "JackalExperimental"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "jackal"
+      }
+    },
+    "description": "Dauntless Experimental",
+    "developer": "Epic Dev Test Account",
+    "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "endOfSupport": false,
+    "entitlementName": "8adffb38b30549408621c241474bd259",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "8adffb38b30549408621c241474bd259",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1148,
+        "md5": "ebc228d3328ed383e4b6b62fd676b49c",
+        "size": 219366,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-08-12T15:16:46.273Z",
+        "url": "https://cdn1.epicgames.com/jackal/item/Epic_DauntlessExperimental_FullGame_PortraitOffer-860x1148-ebc228d3328ed383e4b6b62fd676b49c.jpg",
+        "width": 860
+      },
+      {
+        "height": 1440,
+        "md5": "621fa28976e0717322ec11de83e8f2c3",
+        "size": 726924,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-08-12T17:46:17.192Z",
+        "url": "https://cdn1.epicgames.com/jackal/item/Epic_DauntlessExperimental_FullGame_LandscapeOffer-2560x1440-621fa28976e0717322ec11de83e8f2c3.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2020-09-17T16:57:54.326Z",
+    "namespace": "jackal",
+    "releaseInfo": [
+      {
+        "appId": "65397974e2b8402faa4ca17573f98137",
+        "compatibleApps": [],
+        "dateAdded": "2019-03-06T00:00:00.000Z",
+        "id": "b94f323e8e054707b77087854be7e21d",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Dauntless Experimental",
+    "unsearchable": false
+  }
+}

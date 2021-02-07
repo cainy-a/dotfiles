@@ -1,0 +1,114 @@
+{
+  "app_name": "1dea8a6ddb544842a58e4b5c8675ff58",
+  "app_title": "Cave Story+",
+  "app_version": "1.1",
+  "asset_info": {
+    "app_name": "1dea8a6ddb544842a58e4b5c8675ff58",
+    "asset_id": "1dea8a6ddb544842a58e4b5c8675ff58",
+    "build_version": "1.1",
+    "catalog_item_id": "092e449d98aa49529d618017a336c7d9",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "78473822f724474d8e436f6bde735623"
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-06-30T00:23:03.899Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "Profile.dat"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{InstallDir}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "CaveStoryPlus"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "78473822f724474d8e436f6bde735623"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Cave Story+",
+    "developer": "Nicalis",
+    "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+    "endOfSupport": false,
+    "entitlementName": "092e449d98aa49529d618017a336c7d9",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "092e449d98aa49529d618017a336c7d9",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "23b558de8df0be248f4a32654638ca19",
+        "size": 653310,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-11-25T20:59:57.343Z",
+        "url": "https://cdn1.epicgames.com/78473822f724474d8e436f6bde735623/item/EGS_CaveStory_NicalisIncStudioPixel_S1-2560x1440-23b558de8df0be248f4a32654638ca19.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "fe3f0018e131d715af61f6b2143af331",
+        "size": 439327,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-11-25T21:00:28.937Z",
+        "url": "https://cdn1.epicgames.com/78473822f724474d8e436f6bde735623/item/EGS_CaveStory_NicalisIncStudioPixel_S2-1200x1600-fe3f0018e131d715af61f6b2143af331.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-12-02T19:44:27.329Z",
+    "namespace": "78473822f724474d8e436f6bde735623",
+    "releaseInfo": [
+      {
+        "appId": "1dea8a6ddb544842a58e4b5c8675ff58",
+        "dateAdded": "2020-06-30T00:00:00.000Z",
+        "id": "deaaade5fb1f4cbbb89105e021150e4f",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Cave Story+",
+    "unsearchable": true
+  }
+}

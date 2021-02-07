@@ -1,0 +1,55 @@
+gitRootSettingsSet:
+  root/home/cain/MEGA/powercord/src/Powercord/themes/Diskai:
+    databaseCleanup: {}
+    log:
+      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
+        extendedRoots: ''}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  roots: [~/MEGA/powercord/src/Powercord/themes/LunaCord, ~/.homesick/repos/dotfiles]
+  root/home/cain/MEGA/powercord/src/Powercord/themes/LunaCord:
+    databaseCleanup: {}
+    log:
+      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
+        extendedRoots: ''}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory:
+      - Why is the voice connection status a button?
+      - Radio buttons, mic test caption, dropdowns
+      - Theme Modal buttons too
+      - Settings misc stuff, background fixes, make top toolbar gradiented correctly
+      - |
+        BG colours, headers, server list buttons, buttons next to username, chatbox
+    journal: {}
+  root/home/cain/source/YelloSkin-osu:
+    databaseCleanup: {}
+    log:
+      rootSettings: {baseRoots: "!local-branches://\t!local-tags://\tref://HEAD\t\
+          remote://origin", extendedRoots: ''}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  root/home/cain/.homesick/repos/dotfiles:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {commitNotes: .zshrc & .p10k.zsh}
+    journal: {}
+hgRootSettingsSet:
+  roots: []
+pushMultiRoot: {}

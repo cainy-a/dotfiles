@@ -1,0 +1,9 @@
+[Desktop Entry]
+DefaultProfile=zsh.profile
+
+[Dialogs]
+FirstRun=false
+
+[Window]
+Height=76
+KeepOpen=false

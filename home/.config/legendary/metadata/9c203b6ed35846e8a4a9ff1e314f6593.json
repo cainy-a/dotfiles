@@ -1,0 +1,115 @@
+{
+  "app_name": "9c203b6ed35846e8a4a9ff1e314f6593",
+  "app_title": "Elite Dangerous",
+  "app_version": "3.7.11.254828",
+  "asset_info": {
+    "app_name": "9c203b6ed35846e8a4a9ff1e314f6593",
+    "asset_id": "9c203b6ed35846e8a4a9ff1e314f6593",
+    "build_version": "3.7.11.254828",
+    "catalog_item_id": "9b8ee44da2e84b139c7444ab002cbc35",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "3db17abfd650423f993291624b1b2ac1"
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567UFi3VcybhpEN48QkQXzi7Vru",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-05-05T18:13:08.880Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "EliteDangerous"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "3db17abfd650423f993291624b1b2ac1"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "extraLaunchOption_001_Args": {
+        "type": "STRING",
+        "value": "/VR"
+      },
+      "extraLaunchOption_001_Name": {
+        "type": "STRING",
+        "value": "Launch in VR"
+      }
+    },
+    "description": "Elite Dangerous",
+    "developer": "Frontier Developments",
+    "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+    "endOfSupport": false,
+    "entitlementName": "9b8ee44da2e84b139c7444ab002cbc35",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "9b8ee44da2e84b139c7444ab002cbc35",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "ff83482418be695513db5f4adec99a66",
+        "size": 519380,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-11-02T14:17:12.746Z",
+        "url": "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/item/EGS_EliteDangerous_FrontierDevelopments_S1-2560x1440-ff83482418be695513db5f4adec99a66.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "112c98adf1ae07b058feb140a08e3872",
+        "size": 398707,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-11-02T14:17:21.294Z",
+        "url": "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/item/EGS_EliteDangerous_FrontierDevelopments_S2-1200x1600-112c98adf1ae07b058feb140a08e3872.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-11-17T20:58:35.262Z",
+    "namespace": "3db17abfd650423f993291624b1b2ac1",
+    "releaseInfo": [
+      {
+        "appId": "9c203b6ed35846e8a4a9ff1e314f6593",
+        "dateAdded": "2020-05-05T00:00:00.000Z",
+        "id": "bb26667f6fcc40ebb156941da7004303",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Elite Dangerous",
+    "unsearchable": false
+  }
+}

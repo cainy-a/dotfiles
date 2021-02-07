@@ -1,0 +1,106 @@
+{
+  "app_name": "Cobbler",
+  "app_title": "The Wolf Among Us",
+  "app_version": "1.0.0.0",
+  "asset_info": {
+    "app_name": "Cobbler",
+    "asset_id": "Cobbler",
+    "build_version": "1.0.0.0",
+    "catalog_item_id": "6099b456f22f49e1a421b274b1dbb78d",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "a8f9fb4a881e47b489715f18f7d08e2f"
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-12-11T01:58:26.425Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheWolfAmongUs"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "a8f9fb4a881e47b489715f18f7d08e2f"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "true"
+      }
+    },
+    "description": "The Wolf Among Us",
+    "developer": "LCG Entertainment, Inc.",
+    "developerId": "o-w6l7l9e6c93j85x29twne9ae6su4jt",
+    "endOfSupport": false,
+    "entitlementName": "6099b456f22f49e1a421b274b1dbb78d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "6099b456f22f49e1a421b274b1dbb78d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "3d592297f8f96e8699f46ce34a7f5b10",
+        "size": 453521,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-12-11T21:15:07.697Z",
+        "url": "https://cdn1.epicgames.com/a8f9fb4a881e47b489715f18f7d08e2f/item/EGS_LCGEntertainmentInc_TheWolfAmongUs_S2-1280x1440-3d592297f8f96e8699f46ce34a7f5b10.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1440,
+        "md5": "087d32300cf450fb5f1f1582c7b831fc",
+        "size": 345673,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-12-11T21:15:22.066Z",
+        "url": "https://cdn1.epicgames.com/a8f9fb4a881e47b489715f18f7d08e2f/item/EGS_LCGEntertainmentInc_TheWolfAmongUs_S1-2560x1440-087d32300cf450fb5f1f1582c7b831fc.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2021-01-06T01:03:00.263Z",
+    "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
+    "releaseInfo": [
+      {
+        "appId": "Cobbler",
+        "id": "f3bc17c903d44a9894b1d8e535bf1eab",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "The Wolf Among Us",
+    "unsearchable": false
+  }
+}

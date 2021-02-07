@@ -1,0 +1,146 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=ProtoThreadFlags)(B9=folderName)(BA=X-GM-MSGID)(BB=X-GM-THRID)
+  (BC=X-GM-LABELS)(BD=MRUTime)(BE=preview)(BF=storeToken)(C0=gloda-id)
+  (C1=gloda-dirty)(C2=junkscore)(C3=keywords)(C4=sortType)(C5=sortOrder)
+  (C6=viewFlags)(C7=viewType)(C8=columnStates)(C9=sortColumns)
+  (CA=customSortCol)(CB=imageSize)(CC=sender_name)
+  (CD=ns:msg:db:row:scope:ops:all)(CE=ns:msg:db:table:kind:ops)
+  (80=ns:msg:db:row:scope:msgs:all)(81=subject)(82=sender)(83=message-id)
+  (84=references)(85=recipients)(86=date)(87=size)(88=flags)(89=priority)
+  (8A=label)(8B=statusOfset)(8C=numLines)(8D=ccList)(8E=bccList)
+  (8F=msgThreadId)(90=threadId)(91=threadFlags)(92=threadNewestMsgDate)
+  (93=children)(94=unreadChildren)(95=threadSubject)(96=msgCharSet)
+  (97=ns:msg:db:table:kind:msgs)(98=ns:msg:db:table:kind:thread)
+  (99=ns:msg:db:table:kind:allthreads)
+  (9A=ns:msg:db:row:scope:threads:all)(9B=threadParent)(9C=threadRoot)
+  (9D=msgOffset)(9E=offlineMsgSize)
+  (9F=ns:msg:db:row:scope:dbfolderinfo:all)
+  (A0=ns:msg:db:table:kind:dbfolderinfo)(A1=numMsgs)(A2=numNewMsgs)
+  (A3=folderSize)(A4=expungedBytes)(A5=folderDate)(A6=highWaterKey)
+  (A7=mailboxName)(A8=UIDValidity)(A9=totPendingMsgs)
+  (AA=unreadPendingMsgs)(AB=expiredMark)(AC=version)(AD=forceReparse)
+  (AE=fixedBadRefThreading)(AF=onlineName)(B0=highestModSeq)
+  (B1=imapFlags)(B2=charSetOverride)(B3=charSet)(B4=highestRecordedUID)
+  (B5=ns:msg:db:row:scope:pending:all)(B6=ns:msg:db:table:kind:pending)
+  (B7=dateReceived)>
+<(91=33fa)(8D=60119e6e)(81=0)(80=1)>
+[1:m(^9C^91)(^90^91)(^92^8D)(^91=0)(^93=1)]
+<(98=3468)(96=601af2f1)>[2:m(^9C^98)(^90^98)(^92^96)(^91=0)(^93=1)(^94=1)]
+<(A1=3481)(9F=601f3284)>[3:m(^9C^A1)(^90^A1)(^92^9F)(^91=0)(^93=1)(^94=0)]
+
+<(8F=11)(87=rick atkinson <r1ckatkinson07@gmail.com>)(88
+    =Cain Atkinson <cainatkinson98@gmail.com>)(8A
+    =My first (pretty abysmal\) attempt at typing at full speed)(8B
+    =CAMFUerJw9GOhO9szX-j9Tdie-HVj2v4VV5bxv_Gqh8COwFQuiw@mail.gmail.com)
+  (8C=<026f01d6f4cd\$b55ca8f0\$2015fad0\$@gmail.com>)(8E=c7ad)(90=ffffffff)
+  (86=)(AD=0|rick atkinson)(A3=80)(92
+    =Martin Pettinger <martinipettinger@gmail.com>)(93
+    =Yellowsink <cainatkinson98@gmail.com>)(94=Meriden No.1 & No.2)
+  (95=CA+af7Tr8faen00L7QCb9OohnoA1R2z+zA2aJUfuQPWbwaF-NzQ@mail.gmail.com)
+  (97=162d)(A4=1680)(A5=61)(AE=0|Martin Pettinger)(B0=81)(9B
+    =Google <no-reply@accounts.google.com>)(9C=cainatkinson98@gmail.com)
+  (9D=Security alert)(9E=NX4BmmbBlmna73r4OXI_lA@notifications.google.com)
+  (A0=2cc8)(A6=5760)(A7=2d1b)(A8=a3)(AF=0|Google)>
+{1:^80 {(k^97:c)(s=9)} 
+  [33FA(^88=11)(^82^87)(^85^88)(^81^8A)(^83^8B)(^84^8C)(^B7^8D)(^86^8D)
+    (^89=1)(^87^8E)(^9B^90)(^8F^91)(^B8=0)(^BA=)(^BB=)(^BC=)(^CC^AD)
+    (^C3=)(^8A=0)]
+  [3468(^88=80)(^82^92)(^85^93)(^81^94)(^83^95)(^B7^96)(^86^96)(^89=1)
+    (^87^97)(^9B^90)(^8F^98)(^B8=0)(^BA=)(^BB=)(^BC=)(^9D=0)(^BF=0)
+    (^9E^A4)(^8C=61)(^BE=)(^CC^AE)(^C3=)(^8A=0)]
+  [3481(^88=81)(^82^9B)(^85^9C)(^81^9D)(^83^9E)(^B7^9F)(^86^9F)(^89=1)
+    (^87^A0)(^9B^90)(^8F^A1)(^B8=0)(^BA=)(^BB=)(^BC=)(^9D^A4)(^BF^A6)
+    (^9E^A7)(^8C=a3)(^CC^AF)(^C3=)(^8A=0)(^C1=1)]}
+{3468:^80 {(k^98:c)(s=9)2:m } 3468 }
+{33FA:^80 {(k^98:c)(s=9)1:m } 33FA }
+{3481:^80 {(k^98:c)(s=9)3:m } 3481 }
+{FFFFFFFD:^9A {(k^99:c)(s=9)} [33FA(^95^8A)]
+  [3468(^95^94)]
+  [3481(^95^9D)]}
+
+<(82=INBOX)(83=8083014)(84=2137029)(85=ee00)(A2=3)(A9=1612657293)(AA=12)
+  (AC
+    ={"selectCol":{"visible":false,"ordinal":"1"},"threadCol":{"visible":true,\
+"ordinal":"3"},"flaggedCol":{"visible":true,"ordinal":"5"},"attachmentCol":{"v\
+isible":true,"ordinal":"7"},"subjectCol":{"visible":true,"ordinal":"15"},"unre\
+adButtonColHeader":{"visible":true,"ordinal":"9"},"senderCol":{"visible":false\
+,"ordinal":"17"},"recipientCol":{"visible":false,"ordinal":"19"},"corresponden\
+tCol":{"visible":true,"ordinal":"21"},"junkStatusCol":{"visible":true,"ordinal\
+":"11"},"receivedCol":{"visible":false,"ordinal":"23"},"dateCol":{"visible":tr\
+ue,"ordinal":"25"},"statusCol":{"visible":false,"ordinal":"27"},"sizeCol":{"vi\
+sible":false,"ordinal":"29"},"tagsCol":{"visible":false,"ordinal":"31"},"accou\
+ntCol":{"visible":false,"ordinal":"33"},"priorityCol":{"visible":false,"ordina\
+l":"35"},"unreadCol":{"visible":false,"ordinal":"37"},"totalCol":{"visible":fa\
+lse,"ordinal":"39"},"locationCol":{"visible":false,"ordinal":"41"},"idCol":{"v\
+isible":false,"ordinal":"43"},"deleteCol":{"visible":false,"ordinal":"13"}})>
+{1:^9F {(k^A0:c)(s=9)} 
+  [1(^AC=1)(^AD=0)(^AE=1)(^AF^82)(^88^83)(^A7^82)(^B0^84)(^B1^85)(^A8=1)
+    (^B4^A1)(^A1=3)(^A6^A1)(^A2=1)(^BD^A9)(^C4=12)(^C5=1)(^C6=0)(^C7=0)
+    (^C9=)(^C8^AC)]}
+{1:^CD {(k^CE:c)(s=9)} }
+
+@$${6{@
+< <(a=c)> // (f=iso-8859-1)
+  (CF=remoteContentPolicy)(D0=notAPhishMessage)>
+[3481:^80(^CF=1)]
+@$$}6}@
+
+@$${7{@
+@$$}7}@
+
+@$${8{@
+@$$}8}@
+
+@$${9{@
+< <(a=c)> // (f=iso-8859-1)
+  (D1=op)(D2=msgKey)(D3=opFlags)(D4=newFlags)>
+<(B1=18083014)>[1:^9F(^88^B1)]
+{-1:^CD {(k^CE:c)(s=9)} 
+  [-3481(^D2^A1)(^D4=81)]}
+@$$}9}@
+
+@$${A{@
+< <(a=c)> // (f=iso-8859-1)
+  (D5=moveDest)(D6=msgSize)>
+[-FFFFFFEF:^80(^88=81)(^82^9B)(^85^9C)(^81^9D)(^83^9E)(^B7^9F)(^86^9F)
+    (^89=1)(^87^A0)(^9B^90)(^8F^A1)(^B8=0)(^BA=)(^BB=)(^BC=)(^9D^A4)
+    (^BF^A6)(^9E^A7)(^8C=a3)(^CC^AF)(^C3=)(^8A=0)(^C1=1)(^CF=1)]
+<(B2=imap://cainatkinson98%40gmail.com@imap.gmail.com/[Gmail]/Bin)(99=2)>
+[-3481:^CD(^D2^A1)(^D4=1)(^D5^B2)(^D1=2)(^D6^A0)]
+@$$}A}@
+
+@$${B{@
+[-3:m(^9C^A1)(^90^A1)(^92=0)(^91=0)(^93=0)(^94=0)]
+{-1:^80 {(k^97:c)(s=9)} 33FA 3468 }
+{-3481:^80 {(k^98:c)(s=9)3:m } }[-3481:^80]
+{-FFFFFFFD:^9A {(k^99:c)(s=9)} 33FA 3468 }
+[-1:^9F(^AC=1)(^AD=0)(^AE=1)(^AF^82)(^88^B1)(^A7^82)(^B0^84)(^B1^85)
+    (^A8=1)(^B4^A1)(^A1=2)(^A6^A1)(^A2=1)(^BD^A9)(^C4=12)(^C5=1)(^C6=0)
+    (^C7=0)(^C9=)(^C8^AC)(^A4^A7)]
+@$$}B}@
+
+@$${C{@
+[2:m(^94=0)]
+[-3468:^80(^88=81)(^82^92)(^85^93)(^81^94)(^83^95)(^B7^96)(^86^96)
+    (^89=1)(^87^97)(^9B^90)(^8F^98)(^B8=0)(^BA=)(^BB=)(^BC=)(^9D=0)
+    (^BF=0)(^9E^A4)(^8C=61)(^BE=)(^CC^AE)(^C3=)(^8A=0)(^C1=1)]
+[1:^9F(^A2=0)]
+@$$}C}@
+
+@$${D{@
+@$$}D}@
+
+@$${E{@
+@$$}E}@
+
+@$${F{@
+< <(a=c)> // (f=iso-8859-1)
+  (D7=inPlayback)>
+[1:^9F(^88^83)]
+{-1:^CD {(k^CE:c)(s=9)} }
+[-3481:^CD]
+@$$}F}@
+
+@$${10{@
+@$$}10}@

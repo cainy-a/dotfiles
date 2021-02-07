@@ -1,0 +1,321 @@
+{
+  "app_name": "Bulbul",
+  "app_title": "MudRunner",
+  "app_version": "0.7.22",
+  "asset_info": {
+    "app_name": "Bulbul",
+    "asset_id": "Bulbul",
+    "build_version": "0.7.22",
+    "catalog_item_id": "7e2fdc8f3002433188ceb46da10017cf",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "6bff1c13a8884b518bd44acaf691ddba"
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567uXxdt4rNOlUg9D54WKhlXVQj",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-09-10T19:32:38.595Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/../roaming/MudRunner/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "MudRunner"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "800"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "6bff1c13a8884b518bd44acaf691ddba"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "MudRunner",
+    "developer": "Focus Home",
+    "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-11-19T20:56:09.053Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Valley DLC Audience",
+        "developer": "Focus Home",
+        "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+        "endOfSupport": false,
+        "entitlementName": "c751b1aae4ab4abcb2d1f0ab64a92ae2",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "EVERYONE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c751b1aae4ab4abcb2d1f0ab64a92ae2",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "2499598a67bac9e8517c64b40a4b6cb2",
+            "size": 62625,
+            "type": "ESRB",
+            "uploadedDate": "2020-11-18T20:24:08.008Z",
+            "url": "https://cdn1.epicgames.com/6bff1c13a8884b518bd44acaf691ddba/item/ESRB_MudRunner-842x485-2499598a67bac9e8517c64b40a4b6cb2.png",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2020-11-19T15:11:08.456Z",
+        "mainGameItem": {
+          "id": "7e2fdc8f3002433188ceb46da10017cf",
+          "namespace": "6bff1c13a8884b518bd44acaf691ddba",
+          "unsearchable": false
+        },
+        "namespace": "6bff1c13a8884b518bd44acaf691ddba",
+        "status": "ACTIVE",
+        "title": "Valley DLC Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-11-19T20:57:30.136Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Ridge DLC Audience",
+        "developer": "Focus Home",
+        "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+        "endOfSupport": false,
+        "entitlementName": "025ea9a9282e4e65960eba58b2fc7d89",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "EVERYONE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "025ea9a9282e4e65960eba58b2fc7d89",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "2499598a67bac9e8517c64b40a4b6cb2",
+            "size": 62625,
+            "type": "ESRB",
+            "uploadedDate": "2020-11-18T20:28:59.815Z",
+            "url": "https://cdn1.epicgames.com/6bff1c13a8884b518bd44acaf691ddba/item/ESRB_MudRunner-842x485-2499598a67bac9e8517c64b40a4b6cb2.png",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2020-11-19T15:11:08.456Z",
+        "mainGameItem": {
+          "id": "7e2fdc8f3002433188ceb46da10017cf",
+          "namespace": "6bff1c13a8884b518bd44acaf691ddba",
+          "unsearchable": false
+        },
+        "namespace": "6bff1c13a8884b518bd44acaf691ddba",
+        "status": "ACTIVE",
+        "title": "Ridge DLC Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-11-19T20:58:27.064Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "AW Expansion Audience",
+        "developer": "Focus Home",
+        "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+        "endOfSupport": false,
+        "entitlementName": "82eb0c0ff3324cd1a30ad1cd84005618",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "EVERYONE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "82eb0c0ff3324cd1a30ad1cd84005618",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "2499598a67bac9e8517c64b40a4b6cb2",
+            "size": 62625,
+            "type": "ESRB",
+            "uploadedDate": "2020-11-18T20:25:49.432Z",
+            "url": "https://cdn1.epicgames.com/6bff1c13a8884b518bd44acaf691ddba/item/ESRB_MudRunner-842x485-2499598a67bac9e8517c64b40a4b6cb2.png",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2020-11-19T15:11:08.456Z",
+        "mainGameItem": {
+          "id": "7e2fdc8f3002433188ceb46da10017cf",
+          "namespace": "6bff1c13a8884b518bd44acaf691ddba",
+          "unsearchable": false
+        },
+        "namespace": "6bff1c13a8884b518bd44acaf691ddba",
+        "status": "ACTIVE",
+        "title": "AW Expansion Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-11-19T20:59:26.772Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Old Timers DLC Audience",
+        "developer": "Focus Home",
+        "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+        "endOfSupport": false,
+        "entitlementName": "66ca8fa7d7104e148aeb39c01f50c834",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "EVERYONE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "66ca8fa7d7104e148aeb39c01f50c834",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "2499598a67bac9e8517c64b40a4b6cb2",
+            "size": 62625,
+            "type": "ESRB",
+            "uploadedDate": "2020-11-18T20:29:58.126Z",
+            "url": "https://cdn1.epicgames.com/6bff1c13a8884b518bd44acaf691ddba/item/ESRB_MudRunner-842x485-2499598a67bac9e8517c64b40a4b6cb2.png",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2020-11-19T15:11:08.456Z",
+        "mainGameItem": {
+          "id": "7e2fdc8f3002433188ceb46da10017cf",
+          "namespace": "6bff1c13a8884b518bd44acaf691ddba",
+          "unsearchable": false
+        },
+        "namespace": "6bff1c13a8884b518bd44acaf691ddba",
+        "status": "ACTIVE",
+        "title": "Old Timers DLC Audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "7e2fdc8f3002433188ceb46da10017cf",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "7e2fdc8f3002433188ceb46da10017cf",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "10de866d83ab0d44774565410c89db45",
+        "size": 384484,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-11-18T18:55:28.070Z",
+        "url": "https://cdn1.epicgames.com/6bff1c13a8884b518bd44acaf691ddba/item/MudRunner_EpicGames_LandscapeImage_2560x1440-2560x1440-10de866d83ab0d44774565410c89db45-2560x1440-10de866d83ab0d44774565410c89db45.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1148,
+        "md5": "5e2f459f57da398d634ebb3a1349f2bf",
+        "size": 446439,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-11-18T18:55:39.814Z",
+        "url": "https://cdn1.epicgames.com/6bff1c13a8884b518bd44acaf691ddba/item/MudRunner_EpicGames_PortraitImage-860x1148-860x1148-5e2f459f57da398d634ebb3a1349f2bf-860x1148-5e2f459f57da398d634ebb3a1349f2bf.jpg",
+        "width": 860
+      }
+    ],
+    "lastModifiedDate": "2020-12-29T20:16:00.021Z",
+    "namespace": "6bff1c13a8884b518bd44acaf691ddba",
+    "releaseInfo": [
+      {
+        "appId": "Bulbul",
+        "dateAdded": "2019-09-24T00:00:00.000Z",
+        "id": "dd878364f4794829b242055322e48726",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "MudRunner",
+    "unsearchable": true
+  }
+}

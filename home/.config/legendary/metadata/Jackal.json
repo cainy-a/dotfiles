@@ -1,0 +1,464 @@
+{
+  "app_name": "Jackal",
+  "app_title": "Dauntless",
+  "app_version": "1.5.3.255761",
+  "asset_info": {
+    "app_name": "Jackal",
+    "asset_id": "Jackal",
+    "build_version": "1.5.3.255761",
+    "catalog_item_id": "2f415248cb524eaf950a16e55d315dac",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "jackal"
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-01-28T20:38:56.842Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Dauntless"
+      },
+      "SupportedPlatforms": {
+        "type": "STRING",
+        "value": "Windows"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "com.epicgames.app.developerName": {
+        "type": "STRING",
+        "value": "Phoenix Labs"
+      }
+    },
+    "description": "Dauntless",
+    "developer": "Phoenix Labs",
+    "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-04-08T19:55:10.561Z",
+        "description": "Dauntless - Arcslayer Pack",
+        "developer": "Phoenix Labs",
+        "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+        "endOfSupport": false,
+        "entitlementName": "eb30d315dbdb475a9d8facf2856f8258",
+        "entitlementType": "ENTITLEMENT",
+        "esrbGameRatingValue": "TEEN",
+        "eulaIds": [],
+        "id": "eb30d315dbdb475a9d8facf2856f8258",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 150,
+            "md5": "a8d46dc84e724fe16db1878d61db553f",
+            "size": 66197,
+            "type": "Thumbnail",
+            "uploadedDate": "2019-05-21T12:01:31.036Z",
+            "url": "https://cdn1.epicgames.com/jackal/item/ArcSlayer-355x150-a8d46dc84e724fe16db1878d61db553f.jpg",
+            "width": 355
+          },
+          {
+            "height": 516,
+            "md5": "23b23f06c04aa11263b4f2e9fd9deb0c",
+            "size": 36613,
+            "type": "ESRB",
+            "uploadedDate": "2019-05-21T13:19:03.387Z",
+            "url": "https://cdn1.epicgames.com/jackal/item/ESRB_Dauntless_T-1080x516-23b23f06c04aa11263b4f2e9fd9deb0c.jpg",
+            "width": 1080
+          }
+        ],
+        "lastModifiedDate": "2020-09-17T16:58:56.249Z",
+        "longDescription": "Harness the power of aetheric science with the Arcslayer Pack. Includes the following items:\n-  5,400 Platinum\n-  Arcslayer Cosmetic Armour Set\n     -  Arcslayer Helmet\n     -  Arcslayer Gauntlets\n     -  Arcslayer Jacket\n     -  Arcslayer Greaves\n-  Arcslayer Torch Lantern Skin\n-  Arcslayer Flagstaff\n-  \u201cArcslayer\u201d Title\n-  Arcslayer Shield Banner Fabric\n-  Arcslayer Cipher Flare\n-  Arcslayer Cipher Sigil\n-  100 Ace Chips\n-  3 Rare Cells\n-  1 Epic Cell\n\nPlatinum is an in-game currency that can be used to purchase weapon and armour skins, arrival emotes, banner customizations, and more. You can also use it to upgrade your Hunt Pass.",
+        "mainGameItem": {
+          "id": "2f415248cb524eaf950a16e55d315dac",
+          "namespace": "jackal",
+          "unsearchable": false
+        },
+        "namespace": "jackal",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Dauntless - Arcslayer Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-04-08T20:59:57.846Z",
+        "description": "Dauntless - Timely Arrival Pack",
+        "developer": "Phoenix Labs",
+        "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+        "endOfSupport": false,
+        "entitlementName": "6ac2d32ab8374bf3adf4ae1fe2728b1e",
+        "entitlementType": "ENTITLEMENT",
+        "esrbGameRatingValue": "TEEN",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6ac2d32ab8374bf3adf4ae1fe2728b1e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 150,
+            "md5": "ba46f93823c726e87b84356708881cc3",
+            "size": 63001,
+            "type": "Thumbnail",
+            "uploadedDate": "2019-05-21T12:01:48.311Z",
+            "url": "https://cdn1.epicgames.com/jackal/item/TimelyArrival-355x150-ba46f93823c726e87b84356708881cc3.jpg",
+            "width": 355
+          },
+          {
+            "height": 516,
+            "md5": "23b23f06c04aa11263b4f2e9fd9deb0c",
+            "size": 36613,
+            "type": "ESRB",
+            "uploadedDate": "2019-05-21T13:22:24.158Z",
+            "url": "https://cdn1.epicgames.com/jackal/item/ESRB_Dauntless_T-1080x516-23b23f06c04aa11263b4f2e9fd9deb0c.jpg",
+            "width": 1080
+          }
+        ],
+        "lastModifiedDate": "2020-09-17T16:58:56.249Z",
+        "mainGameItem": {
+          "id": "2f415248cb524eaf950a16e55d315dac",
+          "namespace": "jackal",
+          "unsearchable": false
+        },
+        "namespace": "jackal",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "technicalDetails": "Arrive on time and in style with the Timely Arrival Pack. Includes the following items:\n\n-  1,000 Platinum\n-  \u201cTimely Arrival\u201d Arrival Emote\n-  50 Ace Chips\n-  3 Common Cells\n-  2 Rare Cells\n- Tonics Bundle\n\nPlatinum is an in-game currency that can be used to purchase weapon and armour skins, arrival emotes, banner customizations, and more. You can also use it to upgrade your Hunt Pass.",
+        "title": "Dauntless - Timely Arrival Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-10-29T21:27:04.794Z",
+        "description": "Dauntless - The Unseen Arrival Pack",
+        "developer": "Phoenix Labs",
+        "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+        "endOfSupport": false,
+        "entitlementName": "269ed5234d73475bb32c18f3bebb9273",
+        "entitlementType": "ENTITLEMENT",
+        "esrbGameRatingValue": "TEEN",
+        "eulaIds": [],
+        "id": "269ed5234d73475bb32c18f3bebb9273",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 516,
+            "md5": "23b23f06c04aa11263b4f2e9fd9deb0c",
+            "size": 36613,
+            "type": "ESRB",
+            "uploadedDate": "2019-05-21T13:19:03.387Z",
+            "url": "https://cdn1.epicgames.com/jackal/item/ESRB_Dauntless_T-1080x516-23b23f06c04aa11263b4f2e9fd9deb0c.jpg",
+            "width": 1080
+          },
+          {
+            "height": 1080,
+            "md5": "361acc45954354dde73de22b65cf9f72",
+            "size": 1686414,
+            "type": "Thumbnail",
+            "uploadedDate": "2019-10-29T21:28:02.478Z",
+            "url": "https://cdn1.epicgames.com/jackal/item/Dauntless_Addon_UnseenArrivalBundle_P34_1920x1080_EN-1920x1080-361acc45954354dde73de22b65cf9f72.png",
+            "width": 1920
+          }
+        ],
+        "lastModifiedDate": "2020-09-17T16:58:56.249Z",
+        "longDescription": "",
+        "mainGameItem": {
+          "id": "2f415248cb524eaf950a16e55d315dac",
+          "namespace": "jackal",
+          "unsearchable": false
+        },
+        "namespace": "jackal",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Dauntless - The Unseen Arrival Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-10-29T21:29:06.869Z",
+        "description": "Dauntless - The Unseen Style Pack",
+        "developer": "Phoenix Labs",
+        "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+        "endOfSupport": false,
+        "entitlementName": "60e66184f95f4bfc99e60d506df122e8",
+        "entitlementType": "ENTITLEMENT",
+        "esrbGameRatingValue": "TEEN",
+        "eulaIds": [],
+        "id": "60e66184f95f4bfc99e60d506df122e8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 516,
+            "md5": "23b23f06c04aa11263b4f2e9fd9deb0c",
+            "size": 36613,
+            "type": "ESRB",
+            "uploadedDate": "2019-05-21T13:19:03.387Z",
+            "url": "https://cdn1.epicgames.com/jackal/item/ESRB_Dauntless_T-1080x516-23b23f06c04aa11263b4f2e9fd9deb0c.jpg",
+            "width": 1080
+          },
+          {
+            "height": 1080,
+            "md5": "31340c9ce6504333af6907a0c182db7b",
+            "size": 1892121,
+            "type": "Thumbnail",
+            "uploadedDate": "2019-10-29T21:32:13.701Z",
+            "url": "https://cdn1.epicgames.com/jackal/item/Dauntless_Addon_UnseenSupporterBundle_P34_1920x1080_EN-1920x1080-31340c9ce6504333af6907a0c182db7b.png",
+            "width": 1920
+          }
+        ],
+        "lastModifiedDate": "2020-09-17T16:58:56.249Z",
+        "longDescription": "",
+        "mainGameItem": {
+          "id": "2f415248cb524eaf950a16e55d315dac",
+          "namespace": "jackal",
+          "unsearchable": false
+        },
+        "namespace": "jackal",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Dauntless - The Unseen Style Pack",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-10T13:55:59.430Z",
+        "description": "Dauntless - Platinum + Oculus Umbra Booster Bundle",
+        "developer": "Phoenix Labs",
+        "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+        "endOfSupport": false,
+        "entitlementName": "1939d6212edf474b8ac19c6782dc42a8",
+        "entitlementType": "ENTITLEMENT",
+        "esrbGameRatingValue": "TEEN",
+        "eulaIds": [],
+        "id": "1939d6212edf474b8ac19c6782dc42a8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 516,
+            "md5": "23b23f06c04aa11263b4f2e9fd9deb0c",
+            "size": 36613,
+            "type": "ESRB",
+            "uploadedDate": "2019-05-21T13:19:03.387Z",
+            "url": "https://cdn1.epicgames.com/jackal/item/ESRB_Dauntless_T-1080x516-23b23f06c04aa11263b4f2e9fd9deb0c.jpg",
+            "width": 1080
+          },
+          {
+            "height": 1440,
+            "md5": "a5ab94fe14c9d1c363ad130026d6a966",
+            "size": 573305,
+            "type": "Thumbnail",
+            "uploadedDate": "2020-06-10T13:58:26.769Z",
+            "url": "https://cdn1.epicgames.com/jackal/item/Epic_oculus_umbra_booster_bundle_LandscapeOffer-2560x1440-a5ab94fe14c9d1c363ad130026d6a966.jpg",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2020-09-17T16:58:56.249Z",
+        "longDescription": "",
+        "mainGameItem": {
+          "id": "2f415248cb524eaf950a16e55d315dac",
+          "namespace": "jackal",
+          "unsearchable": false
+        },
+        "namespace": "jackal",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Dauntless - Platinum + Oculus Umbra Booster Bundle",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-10T22:47:35.810Z",
+        "customAttributes": {},
+        "description": "Dauntless - Spark of Genius Booster Bundle",
+        "developer": "Phoenix Labs",
+        "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+        "endOfSupport": false,
+        "entitlementName": "4d43e5f33fa446e9bf5d83cebc84f8e8",
+        "entitlementType": "ENTITLEMENT",
+        "esrbGameRatingValue": "TEEN",
+        "eulaIds": [],
+        "id": "4d43e5f33fa446e9bf5d83cebc84f8e8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 516,
+            "md5": "23b23f06c04aa11263b4f2e9fd9deb0c",
+            "size": 36613,
+            "type": "ESRB",
+            "uploadedDate": "2019-05-21T13:19:03.387Z",
+            "url": "https://cdn1.epicgames.com/jackal/item/ESRB_Dauntless_T-1080x516-23b23f06c04aa11263b4f2e9fd9deb0c.jpg",
+            "width": 1080
+          }
+        ],
+        "lastModifiedDate": "2020-09-17T16:58:56.249Z",
+        "longDescription": "Harness the power of aetheric science with the Arcslayer Pack. Includes the following items:\n-  5,400 Platinum\n-  Arcslayer Cosmetic Armour Set\n     -  Arcslayer Helmet\n     -  Arcslayer Gauntlets\n     -  Arcslayer Jacket\n     -  Arcslayer Greaves\n-  Arcslayer Torch Lantern Skin\n-  Arcslayer Flagstaff\n-  \u201cArcslayer\u201d Title\n-  Arcslayer Shield Banner Fabric\n-  Arcslayer Cipher Flare\n-  Arcslayer Cipher Sigil\n-  100 Ace Chips\n-  3 Rare Cells\n-  1 Epic Cell\n\nGet more platinum for less! This limited-time booster bundle includes:\n\n- 600 Platinum\n- Spark of Genius Lantern Skin\n- 7-Day Escalation Boost\n- 5 Premium Bounty Tokens\n\nPlatinum is an in-game currency that can be used to purchase weapon and armour skins, arrival emotes, banner customizations, and more. You can also use it to upgrade your Hunt Pass.",
+        "mainGameItem": {
+          "id": "2f415248cb524eaf950a16e55d315dac",
+          "namespace": "jackal",
+          "unsearchable": false
+        },
+        "namespace": "jackal",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Dauntless - Spark of Genius Booster Bundle",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-11-17T21:12:07.942Z",
+        "description": "Dauntless - Skyhunter's Kit: Riptalon",
+        "developer": "Phoenix Labs",
+        "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+        "endOfSupport": false,
+        "entitlementName": "9676cdc665cf4c49bd2e749aa147d2a4",
+        "entitlementType": "ENTITLEMENT",
+        "esrbGameRatingValue": "TEEN",
+        "eulaIds": [],
+        "id": "9676cdc665cf4c49bd2e749aa147d2a4",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 516,
+            "md5": "23b23f06c04aa11263b4f2e9fd9deb0c",
+            "size": 36613,
+            "type": "ESRB",
+            "uploadedDate": "2019-05-21T13:19:03.387Z",
+            "url": "https://cdn1.epicgames.com/jackal/item/ESRB_Dauntless_T-1080x516-23b23f06c04aa11263b4f2e9fd9deb0c.jpg",
+            "width": 1080
+          }
+        ],
+        "lastModifiedDate": "2020-12-17T17:58:11.375Z",
+        "longDescription": "",
+        "mainGameItem": {
+          "id": "2f415248cb524eaf950a16e55d315dac",
+          "namespace": "jackal",
+          "unsearchable": false
+        },
+        "namespace": "jackal",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dauntless - Skyhunter's Kit: Riptalon",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "2f415248cb524eaf950a16e55d315dac",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "2f415248cb524eaf950a16e55d315dac",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "81f311d2bd9d4b645f8d5440ae96834b",
+        "size": 403006,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-12-03T19:02:51.137Z",
+        "url": "https://cdn1.epicgames.com/jackal/item/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-81f311d2bd9d4b645f8d5440ae96834b.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "c5b38fdc062b6910db1e4c30eb371d27",
+        "size": 784930,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-12-03T19:03:06.399Z",
+        "url": "https://cdn1.epicgames.com/jackal/item/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1-2560x1440-c5b38fdc062b6910db1e4c30eb371d27.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2020-12-03T19:03:25.869Z",
+    "namespace": "jackal",
+    "releaseInfo": [
+      {
+        "appId": "Jackal",
+        "compatibleApps": [],
+        "dateAdded": "2019-04-30T00:00:00.000Z",
+        "id": "2a3f79d21de94a62ae3ef45db2ff6a7c",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Dauntless",
+    "unsearchable": false
+  }
+}

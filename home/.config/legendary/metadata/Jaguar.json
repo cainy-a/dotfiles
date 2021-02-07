@@ -1,0 +1,104 @@
+{
+  "app_name": "Jaguar",
+  "app_title": "Subnautica",
+  "app_version": "65786-26573960-Windows",
+  "asset_info": {
+    "app_name": "Jaguar",
+    "asset_id": "Jaguar",
+    "build_version": "65786-26573960-Windows",
+    "catalog_item_id": "3257e06c28764231acd93049f3774ed6",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "jaguar"
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2018-11-29T23:28:46.382Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Subnautica"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "jaguar"
+      }
+    },
+    "description": "Subnautica",
+    "developer": "Unknown Worlds Entertainment",
+    "developerId": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
+    "endOfSupport": false,
+    "entitlementName": "3257e06c28764231acd93049f3774ed6",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "3257e06c28764231acd93049f3774ed6",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 728,
+        "md5": "218fdbee56a2040263cacdc30144dc8f",
+        "size": 361703,
+        "type": "DieselGameBox",
+        "uploadedDate": "2018-12-12T19:27:43.221Z",
+        "url": "https://cdn1.epicgames.com/jaguar/item/subnautica1280x728-1280x728-218fdbee56a2040263cacdc30144dc8f-1280x728-218fdbee56a2040263cacdc30144dc8f.png",
+        "width": 1280
+      },
+      {
+        "height": 138,
+        "md5": "3ae2f0fbde1d1aef5498730e7340fa88",
+        "size": 147700,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2018-12-13T22:50:21.035Z",
+        "url": "https://cdn1.epicgames.com/jaguar/item/subnautica_logo_1024x138-1024x138-3ae2f0fbde1d1aef5498730e7340fa88.png",
+        "width": 1024
+      },
+      {
+        "height": 1450,
+        "md5": "67f4ca0e9f3906e8eabba048335963b8",
+        "size": 284580,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/jaguar/item/20181120_SN_Epic_5_Portrait_Promo-1288x1450-67f4ca0e9f3906e8eabba048335963b8.jpg",
+        "width": 1288
+      }
+    ],
+    "lastModifiedDate": "2019-11-19T17:03:44.540Z",
+    "namespace": "jaguar",
+    "releaseInfo": [
+      {
+        "appId": "Jaguar",
+        "compatibleApps": [],
+        "dateAdded": "2018-11-29T00:00:00.000Z",
+        "id": "c5960e98c9984c109d4bd5101cbc8a1c",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Subnautica",
+    "unsearchable": false
+  }
+}

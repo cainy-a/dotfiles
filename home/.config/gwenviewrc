@@ -1,0 +1,20 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[MainWindow]
+HDMI-A-0 Height 1080=480
+HDMI-A-0 Width 1920=759
+HDMI-A-0 Window-Maximized 1920x1080=true
+HDMI-A-0 XPosition=0
+HDMI-A-0 YPosition=75
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOpAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/2021-02-07_17-14.png
+File2[$e]=$HOME/Pictures/pfp_transparent.png
+Name1[$e]=2021-02-07_17-14.png
+Name2[$e]=pfp_transparent.png
+
+[SideBar]
+SideBarSplitterSizes=242,1675

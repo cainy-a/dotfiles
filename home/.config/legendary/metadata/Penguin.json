@@ -1,0 +1,153 @@
+{
+  "app_name": "Penguin",
+  "app_title": "GNOG",
+  "app_version": "1.0-Win",
+  "asset_info": {
+    "app_name": "Penguin",
+    "asset_id": "Penguin",
+    "build_version": "1.0-Win",
+    "catalog_item_id": "f1e0564cd6e841679c678cef65594a2b",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "19078740fbcc4eada59a5a4ae7b3724c"
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-07-08T13:17:31.608Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "idspispopd.gnog"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/../locallow/KO_OP/GNOG/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/unity.KO_OP.GNOG/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "GNOG"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "19078740fbcc4eada59a5a4ae7b3724c"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "extraLaunchOption_001_Args": {
+        "type": "STRING",
+        "value": "--launchvr"
+      },
+      "extraLaunchOption_001_Name": {
+        "type": "STRING",
+        "value": "Launch in VR"
+      },
+      "extraLaunchOption_001_PlatformRestriction": {
+        "type": "STRING",
+        "value": "Windows"
+      },
+      "extraLaunchOption_002_Args": {
+        "type": "STRING",
+        "value": "--eyegaze"
+      },
+      "extraLaunchOption_002_Name": {
+        "type": "STRING",
+        "value": "Launch in Eyegaze"
+      }
+    },
+    "description": "GNOG",
+    "developer": "KO_OP",
+    "developerId": "o-hsgwu456e63dkkgskeusntg93gey48",
+    "endOfSupport": false,
+    "entitlementName": "f1e0564cd6e841679c678cef65594a2b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "f1e0564cd6e841679c678cef65594a2b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "d1e483d28548d9fb82c67180e3c841c0",
+        "size": 307565,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-07-29T18:28:40.335Z",
+        "url": "https://cdn1.epicgames.com/19078740fbcc4eada59a5a4ae7b3724c/item/GNOG_L1_2560_key-2560x1440-d1e483d28548d9fb82c67180e3c841c0.jpg",
+        "width": 2560
+      },
+      {
+        "height": 200,
+        "md5": "28cc1efa170a24e71ed7cffe7e0666d2",
+        "size": 3216,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-07-29T18:28:47.667Z",
+        "url": "https://cdn1.epicgames.com/19078740fbcc4eada59a5a4ae7b3724c/item/GNOG_IC1_logo_color-200x200-28cc1efa170a24e71ed7cffe7e0666d2.png",
+        "width": 200
+      },
+      {
+        "height": 1440,
+        "md5": "e1d28aa71dea168b721f3e1b567065bd",
+        "size": 195367,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/19078740fbcc4eada59a5a4ae7b3724c/item/GNOG_S2_1280_key-1280x1440-e1d28aa71dea168b721f3e1b567065bd.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2020-05-15T01:22:18.365Z",
+    "namespace": "19078740fbcc4eada59a5a4ae7b3724c",
+    "releaseInfo": [
+      {
+        "appId": "Penguin",
+        "dateAdded": "2019-07-29T00:00:00.000Z",
+        "id": "11315709cf214a3f9031398a17fd6435",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "GNOG",
+    "unsearchable": false
+  }
+}

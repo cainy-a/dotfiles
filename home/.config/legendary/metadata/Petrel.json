@@ -1,0 +1,116 @@
+{
+  "app_name": "Petrel",
+  "app_title": "Minit",
+  "app_version": "0.1-staging-win32",
+  "asset_info": {
+    "app_name": "Petrel",
+    "asset_id": "Petrel",
+    "build_version": "0.1-staging-win32",
+    "catalog_item_id": "f1d1779e3b434d429d954b49349bb4bb",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "43605e89e49d438485298819a7ef17b4"
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-08-16T20:23:26.364Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Minit"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "43605e89e49d438485298819a7ef17b4"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Minit",
+    "developer": "Devolver Digital, Inc.",
+    "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "endOfSupport": false,
+    "entitlementName": "f1d1779e3b434d429d954b49349bb4bb",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "f1d1779e3b434d429d954b49349bb4bb",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "c051f2ac59e585262f03b233c18b8304",
+        "size": 174162,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-09-25T14:42:17.334Z",
+        "url": "https://cdn1.epicgames.com/43605e89e49d438485298819a7ef17b4/item/EGS_DEVOLVER_MINIT_L1_library_promo-2560x1440-c051f2ac59e585262f03b233c18b8304.jpg",
+        "width": 2560
+      },
+      {
+        "height": 300,
+        "md5": "b739c4e7e9c9f802bcc400ac58f16c5b",
+        "size": 19241,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-09-25T14:42:28.371Z",
+        "url": "https://cdn1.epicgames.com/43605e89e49d438485298819a7ef17b4/item/EGS_DEVOLVER_MINIT_IC1_game_logo_white-836x300-b739c4e7e9c9f802bcc400ac58f16c5b.png",
+        "width": 836
+      },
+      {
+        "height": 1440,
+        "md5": "39ff6477e8f475577b0a751035ef4a4a",
+        "size": 118316,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/43605e89e49d438485298819a7ef17b4/item/EGS_DEVOLVER_MINIT_S2_store_promo_portrait-1280x1440-39ff6477e8f475577b0a751035ef4a4a.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2019-11-19T17:03:13.268Z",
+    "namespace": "43605e89e49d438485298819a7ef17b4",
+    "releaseInfo": [
+      {
+        "appId": "Petrel",
+        "dateAdded": "2019-09-24T00:00:00.000Z",
+        "id": "61f0242978374327979c7bc5f01425d0",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Minit",
+    "unsearchable": false
+  }
+}

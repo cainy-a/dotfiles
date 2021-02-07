@@ -1,0 +1,14 @@
+[MainWindow]
+CommandList=
+HDMI-A-0 XPosition=413
+HDMI-A-0 YPosition=339
+HostList=
+SelectedSheets[$e]=ProcessTable.sgrd,SystemLoad2.sgrd
+SplitterSizeList=10,90
+State=AAAA/wAAAAD9AAAAAAAAAyAAAAIjAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+currentSheet=0
+isMinimized=false
+
+[Notification Messages]
+endconfirmation=false

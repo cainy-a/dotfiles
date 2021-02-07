@@ -1,0 +1,8 @@
+structure:
+- {name: YelloSkin-osu, git: true, path: ~/source/YelloSkin-osu, path.absolute: /home/cain/source/YelloSkin-osu}
+- {name: Diskai, git: true, path: ~/MEGA/powercord/src/Powercord/themes/Diskai, path.absolute: /home/cain/MEGA/powercord/src/Powercord/themes/Diskai}
+- {name: LunaCord, git: true, path: ~/MEGA/powercord/src/Powercord/themes/LunaCord,
+  path.absolute: /home/cain/MEGA/powercord/src/Powercord/themes/LunaCord}
+- {name: dotfiles, git: true, path: ~/.homesick/repos/dotfiles, path.absolute: /home/cain/.homesick/repos/dotfiles}
+recentlyUsed: [~/.homesick/repos/dotfiles, ~/MEGA/powercord/src/Powercord/themes/LunaCord,
+  ~/source/YelloSkin-osu, ~/MEGA/powercord/src/Powercord/themes/Diskai]

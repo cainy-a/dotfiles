@@ -1,0 +1,13 @@
+window_location 0 46
+window_size 1920 1005
+zoom_level 1
+font_size 10
+show_toolbar 1
+sprung_layout 1
+show_messages 1
+sort_ports 1
+messages_height 24
+module_position "Midi Through" input 261 135
+module_position "Midi Through" output 163.802 203.628
+module_position "system" input 624 269
+module_position "system" output 445.442 284.655

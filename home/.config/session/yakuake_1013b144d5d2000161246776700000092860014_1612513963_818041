@@ -1,0 +1,12 @@
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=MainWindow
+HDMI-A-0 Height 1080=480
+HDMI-A-0 Width 1920=640
+HDMI-A-0 XPosition=0
+HDMI-A-0 YPosition=0
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAAAAAAAAAAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled

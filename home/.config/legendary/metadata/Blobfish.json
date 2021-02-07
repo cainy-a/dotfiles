@@ -1,0 +1,116 @@
+{
+  "app_name": "Blobfish",
+  "app_title": "Into The Breach",
+  "app_version": "1.2.24",
+  "asset_info": {
+    "app_name": "Blobfish",
+    "asset_id": "Blobfish",
+    "build_version": "1.2.24",
+    "catalog_item_id": "26f79209063d435d8988647a5e2e14c2",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "5c0d568c71174cff8026db2606771d96"
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-12-03T17:47:19.808Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "IntoTheBreach"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "5c0d568c71174cff8026db2606771d96"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Into The Breach",
+    "developer": "Subset Games",
+    "developerId": "o-y2xjbnp5qy433qzldqbvncb3n8z3l6",
+    "endOfSupport": false,
+    "entitlementName": "26f79209063d435d8988647a5e2e14c2",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "26f79209063d435d8988647a5e2e14c2",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "dba55f96ffe7af34552ed2215f921bdc",
+        "size": 472146,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-12-16T21:27:56.467Z",
+        "url": "https://cdn1.epicgames.com/5c0d568c71174cff8026db2606771d96/item/EGS_SubsetGames_IntotheBreach_S1-2560x1440-dba55f96ffe7af34552ed2215f921bdc.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1440,
+        "md5": "22e899c71d5a2bf7bc9353cc3f6e46d2",
+        "size": 395319,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-12-16T21:28:08.588Z",
+        "url": "https://cdn1.epicgames.com/5c0d568c71174cff8026db2606771d96/item/EGS_SubsetGames_IntotheBreach_S2-1280x1440-22e899c71d5a2bf7bc9353cc3f6e46d2.jpg",
+        "width": 1280
+      },
+      {
+        "height": 200,
+        "md5": "49a3bf4ab351e9aa255e2e52c8368346",
+        "size": 15583,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-12-16T21:28:18.803Z",
+        "url": "https://cdn1.epicgames.com/5c0d568c71174cff8026db2606771d96/item/EGS_SubsetGames_IntotheBreach_IC1-200x200-49a3bf4ab351e9aa255e2e52c8368346.png",
+        "width": 200
+      }
+    ],
+    "lastModifiedDate": "2019-12-19T15:56:56.664Z",
+    "namespace": "5c0d568c71174cff8026db2606771d96",
+    "releaseInfo": [
+      {
+        "appId": "Blobfish",
+        "dateAdded": "2019-12-16T21:25:00.929Z",
+        "id": "85aca4789f0b4292ab3c0249dda2a41d",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Into The Breach",
+    "unsearchable": false
+  }
+}

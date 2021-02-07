@@ -1,0 +1,28 @@
+{
+  "Kiwi": {
+    "app_name": "Kiwi",
+    "base_urls": [
+      "https://epicgames-download1.akamaized.net/Builds/Org/o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn/7ae5e7fb1f52463cb251003108495cfd/default",
+      "https://download.epicgames.com/Builds/Org/o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn/7ae5e7fb1f52463cb251003108495cfd/default",
+      "https://download2.epicgames.com/Builds/Org/o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn/7ae5e7fb1f52463cb251003108495cfd/default",
+      "https://download3.epicgames.com/Builds/Org/o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn/7ae5e7fb1f52463cb251003108495cfd/default",
+      "https://download4.epicgames.com/Builds/Org/o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn/7ae5e7fb1f52463cb251003108495cfd/default",
+      "https://fastly-download.epicgames.com/Builds/Org/o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn/7ae5e7fb1f52463cb251003108495cfd/default"
+    ],
+    "can_run_offline": true,
+    "egl_guid": "",
+    "executable": "TetrisEffect.exe",
+    "install_path": "/home/cain/legendary/TetrisEffect",
+    "install_size": 5020023469,
+    "install_tags": [],
+    "is_dlc": false,
+    "launch_parameters": "",
+    "manifest_path": null,
+    "needs_verification": false,
+    "prereq_info": null,
+    "requires_ot": false,
+    "save_path": null,
+    "title": "Tetris\u00ae Effect",
+    "version": "1.0.6"
+  }
+}

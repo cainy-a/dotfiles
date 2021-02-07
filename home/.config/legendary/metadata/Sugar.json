@@ -1,0 +1,150 @@
+{
+  "app_name": "Sugar",
+  "app_title": "Rocket League\u00ae",
+  "app_version": "BC2_Update33.1 CL 309642",
+  "asset_info": {
+    "app_name": "Sugar",
+    "asset_id": "Sugar",
+    "build_version": "BC2_Update33.1 CL 309642",
+    "catalog_item_id": "530145df28a24424923f5828cc9031a1",
+    "label_name": "Live-Windows",
+    "metadata": {},
+    "namespace": "9773aa1aa54f4f7b80e44bef04986cea"
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567OXA1CdeeCuAmUWMhmfiO3EAl",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-07-17T15:21:47.846Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "rocketleague"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "9773aa1aa54f4f7b80e44bef04986cea"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Rocket League\u00ae",
+    "developer": "Psyonix LLC",
+    "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-11-13T22:03:29.475Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "SentinelStarterPackAudience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "2a39dea4aa504c29a139db60f55f675a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2a39dea4aa504c29a139db60f55f675a",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-12-15T16:37:24.307Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SentinelStarterPackAudience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "530145df28a24424923f5828cc9031a1",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && rocket_league)"
+    ],
+    "id": "530145df28a24424923f5828cc9031a1",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "e88d925b8a58d32bfce43a3fc7c98a5b",
+        "size": 422824,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-12-09T16:06:44.077Z",
+        "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/item/EGS_RocketLeague_PsyonixLLC_S2-1200x1600-e88d925b8a58d32bfce43a3fc7c98a5b.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "3e8d9fb9e7affd51694726a2e2049111",
+        "size": 806401,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-12-09T16:06:53.083Z",
+        "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/item/EGS_RocketLeague_PsyonixLLC_S1-2560x1440-3e8d9fb9e7affd51694726a2e2049111.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2020-12-09T16:07:02.975Z",
+    "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+    "releaseInfo": [
+      {
+        "appId": "Sugar",
+        "dateAdded": "2020-09-23T00:00:00.000Z",
+        "id": "2fb949176d3a44eb90622de9aae7dfc3",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Rocket League\u00ae",
+    "unsearchable": true
+  }
+}
