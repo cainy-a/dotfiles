@@ -6,6 +6,10 @@ Recent Files[$e]=Your Name. wallpaper.jpg,file:$HOME/Pictures/wallpaper-do not d
 Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Pictures/
 detailViewIconSize=16
 
+[KPropertiesDialog]
+HDMI-A-0 DisplayPort-0 Height 1080=458
+HDMI-A-0 DisplayPort-0 Width 1920=410
+
 [PlasmaViews][Panel 2][Defaults]
 thickness=46
 
@@ -14,7 +18,8 @@ thickness=46
 
 [ScreenConnectors]
 0=HDMI-A-0
-1=:0.0
+1=DisplayPort-0
+2=:0.0
 
 [Updates]
 performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js
